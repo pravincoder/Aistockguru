@@ -66,7 +66,7 @@ const Contact = () => {
             <div className="flex items-center space-x-4 text-gray-600">
               <i className="fas fa-phone-alt text-blue-600"></i>
               <div>
-              <a href="tel:+910000000000" class="phone-link">+91 0000000000</a>
+              <a href="tel:+910000000000" class="phone-link">+91 000000000</a>
 
               </div>
             </div>
